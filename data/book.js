@@ -1,9 +1,9 @@
 export const bookData = [
-    {
-        id: 0,
-        title: "Cover",
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet.",
-    },
+    // {
+    //     id: 0,
+    //     title: "Cover",
+    //     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet.",
+    // },
     {
         id: 1,
         image: "https://picsum.photos/200/300"
